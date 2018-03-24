@@ -4,6 +4,7 @@
 
 # Read the documentation in /docs directory
 # and on http://libremesh.org
+#my profile
 
 config lime system
 	option hostname 'otvorena-%M4%M5%M6'
